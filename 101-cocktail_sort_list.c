@@ -58,7 +58,7 @@ void swap_node_behind(listint_t **list, listint_t **tail, listint_t **shaker)
 }
 
 /**
- * coktial_sort_list - Sort a listint_t doubly-linked list of integrs in
+ * cocktail_sort_list - Sort a listint_t doubly-linked list of integrs in
  *			ascending order using the cocktail shaker algorithm.
  * @list: Apinter to the head of listint_t doubly-linked list
  */
