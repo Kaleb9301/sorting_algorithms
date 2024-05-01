@@ -14,8 +14,8 @@ int main(void)
 
 	print_array(array, n);
 	printf("\n");
-	merge_sort(array, n);
+	radix_sort(array, n);
 	printf("\n");
-	printf_array(array, n);
+	print_array(array, n);
 	return (0);
 }
